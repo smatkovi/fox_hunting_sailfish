@@ -1,9 +1,12 @@
 #ifndef TABLEANY_H
 #define TABLEANY_H
 
+#include <iostream>
+#include <cmath>
 #include <QObject>
 #include <QVariant>
 #include <QVector>
+using namespace std;
 
 // объяснение, почему реализация шаблонов в .h
 // https://www.linux.org.ru/forum/development/12094159
